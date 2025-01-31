@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://elvisdelfosTI.github.io',
+	site: 'https://elvisdelfosTI.github.io/guiedes.delfosTI',
 	base: '/guiedes.delfosTI',
 	integrations: [
 		starlight({
